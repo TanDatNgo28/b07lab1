@@ -1,5 +1,5 @@
 public class Driver {
-	public static void main(String[]arg) {
+	public static void main(String[]args) {
 		Polynomial p = new Polynomial();
 		System.out.println(p.evaluate(3));
 		double[] c1 = {6,0,0,5};
